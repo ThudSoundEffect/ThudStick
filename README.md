@@ -7,8 +7,10 @@ Fightstick with fully analog joystick functions as a gamecube controller utilizi
 - Digital hard shield and light shield buttons
 - Powered by a PHOB v2.02 motherboard
 - Utilizes a C-Pad (https://github.com/rana-sylvatica/c-pad/tree/main)
-- Housing and PCB for the Sanwa Joystick adapted from the Sharp Analog Snap-In (https://github.com/Sharp-02/JLF-Sharp-Analog-Snap-In/tree/main)
-- Custom layout files for laser cut acrylic parts
-
-### Assembly
+- Housing and PCB for the Sanwa Joystick adapted from the Sharp Analog Snap-In (https://github.com/Sharp-02/JLF-Sharp-Analog-Snap-In/tree/main) to connect the hall effect sensors directly to the PHOB motherboard rather than using a PCB that requires the additional soldering and calibrations of resistors, op-amps, and trimpots to be compatible with an OEM board
+- Custom layout files for laser cut acrylic face plates
+# Assembly
 -
+### Parts
+-
+
