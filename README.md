@@ -8,3 +8,7 @@ Fightstick with fully analog joystick functions as a gamecube controller utilizi
 - Powered by a PHOB v2.02 motherboard
 - Utilizes a C-Pad (https://github.com/rana-sylvatica/c-pad/tree/main)
 - Housing and PCB for the Sanwa Joystick adapted from the Sharp Analog Snap-In (https://github.com/Sharp-02/JLF-Sharp-Analog-Snap-In/tree/main)
+- Custom layout files for laser cut acrylic parts
+
+### Assembly
+-
