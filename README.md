@@ -11,7 +11,11 @@ Fightstick with fully analog joystick functions as a gamecube controller utilizi
 - Custom layout files for laser cut acrylic face plates
 # Assembly
 ### Parts
--
+- x1 PHOB v2.02 motherboard
+- x8 20mm acrylic M3 screws and bolts
+- x12 24mm Sanwa snap-in buttons
+- x1 Sanwa JLF joysick
+- x4 
 ### Joystick Modification
 -
 ### PHOB Board Modification
