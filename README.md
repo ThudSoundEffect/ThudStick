@@ -13,7 +13,7 @@ Fightstick with fully analog joystick functions as a gamecube controller utilizi
 ### Parts
 - x1 PHOB v2.02 motherboard without hall effect sensors
 - x1 C-Pad by Rana Labs for PHOB v2.X
-- x8 20mm acrylic M3 screws and bolts (https://www.ebay.com/itm/256017929306)
+- x4 20mm M3 nuts and bolts
 - x12 24mm Sanwa snap-in buttons (https://arcadeshock.com/products/sanwa-denshi-pushbutton-24mm-solid-color-obsf-24-xx?_pos=1&_sid=41db96e1b&_ss=r)
 - x1 Sanwa JLF joysick (https://www.amazon.com/dp/B01CRQMWEQ?ref=ppx_yo2ov_dt_b_product_details&th=1)
 - x1 Gamecube controller cord (https://www.ebay.com/itm/256017929306)
