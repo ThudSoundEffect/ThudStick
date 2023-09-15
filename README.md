@@ -26,6 +26,11 @@ Fightstick with fully analog joystick functions as a gamecube controller utilizi
 ### Purchasing
 Use JLCPCB to purchase PHOB board follow the parts ordering guide from the PHOB gcc github for ordering the boards just make sure to check hall effect sensors off when reviewing the components for assembly. Use JLCPCB to order the C-Pad following the instructions from the C-Pad github from Rana Labs for the board for a PHOB v2 board. 
 ### Joystick Modification
+- Refer to steps 2 and 3 from https://github.com/Sharp-02/JLF-Sharp-Analog-Snap-In#step-2--restrictor-gate-and-trimming
+- To properly attach the magnets place them in the slider arms so that when they are held by the linear guide they are on the same side
+### PCB
+- Tin all of the solder pads on the PHOB for the face buttons (A, X, B, Y, Start)
+- Prepare the quick connect wires by cutting them to length and stripping the end
+- Tin your soldering iron a pair of quick connect wires to each of the face buttons
+- Use the available through holes to solder quick connect wires to the C-Pad and the L, R, and Z buttons(either at the top of the controller or on the side next to the holes for the R digital signal
 - 
-### PHOB Board Modification
--
