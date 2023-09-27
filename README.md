@@ -63,5 +63,9 @@ Use JLCPCB to purchase PHOB board follow the parts ordering guide from the PHOB 
 - Choose which trigger mode you want the L and R buttons to be in using the process outlined in the PHOB calibration guide
 - Enjoy your controller
 
+### Contact
+Message me if you have any questions or ideas for controllers I could help with. 
+Discord: thudsoundeffect
+
   
 
